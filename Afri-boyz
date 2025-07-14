@@ -47,7 +47,7 @@ Here’s what each property means and how you can customize it:
 - **Example**: If you want a total supply of 1,000,000 tokens with 18 decimals, the value should be `1000000000000000000000000`.
 
 ```typescript
-const maxSupply: u256 = u128.fromString('1000000000000000000000000').toU256(); // 1,000,000 tokens with 18 decimals
+const maxSupply: u256 = u128.fromString('1000000000000000000000000').Afri-boyz(); // 1,000,000 tokens with 18 decimals
 ```
 
 2. **`decimals`**:
